@@ -1,14 +1,3 @@
-# 甲蛙在线视频课程系统
-
-## 源码下载
-使用下面的命令将源码从远程仓库拉取到本地，需要本地提前安装好git
-
-```
-git clone https://git.imooc.com/coding-416/course-online.git
-或
-git clone ssh://git@git.imooc.com:80/coding-416/course-online.git
-```
-
 ## 项目模块说明
 * **admin**<br>
 控台管理，vue cli项目
